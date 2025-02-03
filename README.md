@@ -10,5 +10,5 @@ for MESA NEDC design section
 - SPDT relay
 
 connect as seen in picture i think idk i used tinkercad for this ngl
-![picture of the template](/pic.png)
+![picture of the template](https://raw.githubusercontent.com/listingclown3/nedc-design-template/refs/heads/main/pic.png)
 
